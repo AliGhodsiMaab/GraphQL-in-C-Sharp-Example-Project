@@ -1,4 +1,5 @@
-# Simple GraphQL API for Courses
+# Simple GraphQL and RESTful API for Course Class
+
 
 This project is a basic implementation of an API for managing courses using ASP.NET Core and Entity Framework Core. Although it is currently implemented as a RESTful API and GraphQL.
 
